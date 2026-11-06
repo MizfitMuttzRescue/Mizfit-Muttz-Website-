@@ -112,7 +112,7 @@
     "image": "content/Abracadabra.jpg",
     "description": "Abby is a super-outgoing, bouncy little girl who loves everyone! She's social with people and other animals, and is working on crate training and housebreaking. Her enthusiastic bouncing in an exercise pen might not be ideal for a home with downstairs neighbors. She's looking for a family ready to enjoy her big personality and continue her training.",
     "link": "https://form.jotform.com/260846555614059",
-    "published": true
+    "published": false
   },
   {
     "name": "Pocus",
@@ -123,7 +123,7 @@
     "image": "content/Pocus.jpg",
     "description": "Pocus is a sweet, social little girl who enjoys people and other dogs! Cats are untested, though she may do well with them. She's still working on housebreaking and can be vocal when left alone in her crate, so she'll appreciate a patient family who can help her build confidence with alone time.",
     "link": "https://form.jotform.com/260846555614059",
-    "published": true
+    "published": false
   },
   {
     "name": "Hocus",
@@ -133,7 +133,7 @@
     "image": "content/Hocus.jpg",
     "description": "Hocus can be a little shy when meeting new people, but he warms up quickly. He loves other dogs and truly thrives with their companionship. He's working on housebreaking and crate training, and may do well with cats, though that hasn't been confirmed. Hocus would love a patient family and a canine friend to help him feel at home.",
     "link": "https://form.jotform.com/260846555614059",
-    "published": true,
+    "published": false,
     "weight": "12 lbs"
   },
   {
@@ -145,6 +145,6 @@
     "image": "content/Hoodoo.jpg",
     "description": "Hoodoo is a sweet, social girl who gets along with people, dogs, and cats! She walks nicely on a leash and knows to potty while on leash, though she can get distracted outdoors and occasionally has accidents inside. Crate training is still a work in progress. This 7-month-old pup is looking for a family to keep encouraging her as she learns and grows.",
     "link": "https://form.jotform.com/260846555614059",
-    "published": true
+    "published": false
   }
 ]
