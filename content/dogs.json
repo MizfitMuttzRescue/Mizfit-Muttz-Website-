@@ -42,7 +42,7 @@
   },
   {
     "name": "Ringo",
-    "age": "4 months",
+    "age": "5 months",
     "breed": "Large-breed Doberman mix",
     "sex": "Male",
     "image": "content/Ringo.png",
@@ -149,7 +149,7 @@
   },
   {
     "name": "Doc Holliday",
-    "age": "4 months",
+    "age": "5 months",
     "breed": "Doberman mix",
     "sex": "Male",
     "image": "content/Doc Holliday.jpg",
