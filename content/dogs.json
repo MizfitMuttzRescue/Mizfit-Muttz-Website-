@@ -165,7 +165,8 @@
     "image": "content/Gravy.jpg",
     "description": "Meet Gravy! This friendly, social 4-month-old Chihuahua mix is ready to make new friends and find a family to call her own.",
     "link": "https://form.jotform.com/260846555614059",
-    "published": true
+    "published": true,
+    "weight": "Approximately 5–8 lbs"
   },
   {
     "name": "Gobble",
@@ -175,6 +176,7 @@
     "image": "content/Gobble.png",
     "description": "Meet Gobble! This friendly, social 3-year-old Chihuahua mix enjoys making friends with people. She can be nervous around bigger dogs, so gentle introductions and a little patience will help her feel comfortable. She's ready to find a family to call her own!",
     "link": "https://form.jotform.com/260846555614059",
-    "published": true
+    "published": true,
+    "weight": "Approximately 5–8 lbs"
   }
 ]
