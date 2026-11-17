@@ -156,5 +156,15 @@
     "description": "Meet Doc Holliday! This 4-month-old Doberman mix is a friendly, growing pup who enjoys people, other dogs, and kids. He's ready to find a family to love and grow up with!",
     "link": "https://form.jotform.com/260846555614059",
     "published": true
+  },
+  {
+    "name": "Gravy",
+    "age": "4 months",
+    "breed": "Chihuahua mix",
+    "sex": "Female",
+    "image": "content/Gravy.jpg",
+    "description": "Meet Gravy! This friendly, social 4-month-old Chihuahua mix is ready to make new friends and find a family to call her own.",
+    "link": "https://form.jotform.com/260846555614059",
+    "published": true
   }
 ]
