@@ -217,7 +217,9 @@
     "image": "content/Kyanite.jpg",
     "description": "Meet Kyanite, a beautiful blue Doberman saved from the euthanasia list and ready for a second chance.",
     "link": "https://form.jotform.com/260846555614059",
-    "published": true
+    "published": true,
+    "sex": "Male",
+    "weight": "75 lbs"
   },
   {
     "name": "Nuummite (Numi)",
