@@ -209,5 +209,34 @@
     "description": "Meet Butch Cassidy! This 5-month-old Doberman mix is a friendly, social pup who loves people, enjoys other dogs, and especially loves kids. He's ready to find a family to grow up with and call his own!",
     "link": "https://form.jotform.com/260846555614059",
     "published": true
+  },
+  {
+    "name": "Kyanite",
+    "age": "3–4 years",
+    "breed": "Blue Doberman",
+    "image": "content/Kyanite.jpg",
+    "description": "Meet Kyanite, a beautiful blue Doberman saved from the euthanasia list and ready for a second chance.",
+    "link": "https://form.jotform.com/260846555614059",
+    "published": true
+  },
+  {
+    "name": "Nuummite (Numi)",
+    "age": "11 weeks",
+    "breed": "Doberman/Shepherd mix",
+    "sex": "Female",
+    "image": "content/Nuummite.jpg",
+    "description": "Numi is an extremely confident little puppy with a big personality! Saved from the euthanasia list, she's ready to find a family to grow up with.",
+    "link": "https://form.jotform.com/260846555614059",
+    "published": true
+  },
+  {
+    "name": "Zirconia (Zia)",
+    "age": "3 months",
+    "breed": "Australian Shepherd/Border Collie mix",
+    "sex": "Female",
+    "image": "content/Zirconia.png",
+    "description": "Meet Zirconia, affectionately known as Zia! This adorable young pup was saved from the euthanasia list and is looking for a family to share her second chance with.",
+    "link": "https://form.jotform.com/260846555614059",
+    "published": true
   }
 ]
